@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<index schemaVersion="1.0.0" xs:noNamespaceSchemaLocation="PackIndex.xsd"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
+  <vendor>Holtek</vendor>
+  <url>https://mcu.holtek.com.tw/pack/</url>
+  <timestamp>2023-03-16T15:00:10.7300074+00:00</timestamp>
+  <pindex>
+    <pdsc url="https://mcu.holtek.com.tw/pack/" vendor="Holtek" name="HT32_DFP" version="1.0.77"/>
+    <pdsc url="https://mcu.holtek.com.tw/pack/" vendor="Holtek" name="HT32F493x5_DFP" version="1.0.6"/>
+    <pdsc url="https://mcu.holtek.com.tw/pack/" vendor="Holtek" name="HT32F491x3_DFP" version="1.0.4"/>
+    <pdsc url="https://mcu.holtek.com.tw/pack/" vendor="Holtek" name="HT32F490x1_DFP" version="1.0.1"/>
+    <pdsc url="https://mcu.holtek.com.tw/pack/" vendor="Holtek" name="HT32F675x5_DFP" version="1.0.5"/>
+  </pindex>
+</index>
